@@ -6,7 +6,8 @@ Frontend Mentor challenges help me practice building real-world UI components us
 ## 📸 Screenshot
 
 ![Screenshot of my solution]
-<img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/0f665a6f-9e52-42b9-8aeb-39506df25cf3" />
+<img width="1280" height="642" alt="image" src="https://github.com/user-attachments/assets/e67a95cc-c59e-4024-a544-c02b214b6ea6" />
+
 
 ## 🔗 Links
 
